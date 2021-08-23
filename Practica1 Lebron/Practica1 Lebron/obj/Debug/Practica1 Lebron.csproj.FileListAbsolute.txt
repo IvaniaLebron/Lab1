@@ -1,7 +1,0 @@
-C:\Users\Postgrados\source\repos\Practica1 Lebron\Practica1 Lebron\bin\Debug\Practica1 Lebron.exe.config
-C:\Users\Postgrados\source\repos\Practica1 Lebron\Practica1 Lebron\bin\Debug\Practica1 Lebron.exe
-C:\Users\Postgrados\source\repos\Practica1 Lebron\Practica1 Lebron\bin\Debug\Practica1 Lebron.pdb
-C:\Users\Postgrados\source\repos\Practica1 Lebron\Practica1 Lebron\obj\Debug\Practica1 Lebron.csproj.AssemblyReference.cache
-C:\Users\Postgrados\source\repos\Practica1 Lebron\Practica1 Lebron\obj\Debug\Practica1 Lebron.csproj.CoreCompileInputs.cache
-C:\Users\Postgrados\source\repos\Practica1 Lebron\Practica1 Lebron\obj\Debug\Practica1 Lebron.exe
-C:\Users\Postgrados\source\repos\Practica1 Lebron\Practica1 Lebron\obj\Debug\Practica1 Lebron.pdb
